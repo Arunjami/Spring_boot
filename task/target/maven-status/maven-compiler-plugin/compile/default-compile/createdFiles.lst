@@ -1,0 +1,6 @@
+com\tcl\StatisticsApplication\HomeApp.class
+com\tcl\StatisticsApplication\Transaction.class
+com\tcl\StatisticsApplication\Transactionmanager.class
+com\tcl\StatisticsApplication\StartApplication.class
+com\tcl\StatisticsApplication\TransactionController.class
+com\tcl\StatisticsApplication\StatisticsController.class
