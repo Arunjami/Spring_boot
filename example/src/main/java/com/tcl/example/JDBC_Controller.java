@@ -1,4 +1,4 @@
-/*package com.tcl.example;
+package com.tcl.example;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,4 +16,3 @@ public class JDBC_Controller {
         return"data inserted Successfully";
     }
 }
-*/
